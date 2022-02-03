@@ -1,0 +1,56 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>2d0355df-9e0f-4c04-a15c-aef29cb0e9de</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>voice-gender.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>ML</Name>
+    <RootNamespace>ML</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="decision_tree.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="linear_regression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ML.py" />
+    <Compile Include="ML2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ML_try3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="net-worth.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="nltk.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="voice-gender.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
