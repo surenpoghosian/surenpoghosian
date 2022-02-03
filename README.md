@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surenpoghosian
 - 👀 I’m interested in Drones/Embedded systems/AI
 - 🌱 I’m currently learning Embedded systems
-- 💞️ I’m looking to collaborate on Drone developing
+- 👀 I’m looking to collaborate on Drone developing
 - 📫 How to reach me - suren.poghosian.18@gmail.com
 
 <!---
