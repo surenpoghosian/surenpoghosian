@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @surenpoghosian
-- 👀 I’m interested in Drones/Embedded systems/AI
-- 🌱 I’m currently learning Embedded systems
-- 👀 I’m looking to collaborate on Drone developing
 - 📫 How to reach me - suren.poghosian.18@gmail.com
 
-2022/11/24 UPDATE
-
-IM MOBILE DEVELOPER AND MAKING MY 3-rd APP
+IM MOBILE DEVELOPER
+IOS APPS -> 3
+Android APPS -> 3
+Web -> 5
 
 #REACT_NATIVE_EXPO
+#REACT
 for collaborations text me in telegram @surenpoghosian
 
 <!---
