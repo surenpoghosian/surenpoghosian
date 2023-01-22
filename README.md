@@ -2,8 +2,8 @@
 - 📫 How to reach me - suren.poghosian.18@gmail.com
 
 IM MOBILE DEVELOPER
-IOS APPS -> 3
-Android APPS -> 3
+IOS APPS -> 4
+Android APPS -> 4
 Web -> 5
 
 #REACT_NATIVE_EXPO
