@@ -1,14 +1,7 @@
 - 👋 Hi, I’m @surenpoghosian
-- 📫 How to reach me - suren.poghosian.18@gmail.com
+- 📫 You can reach me there -> suren.poghosian.18@gmail.com
 
-IM MOBILE DEVELOPER
-IOS APPS -> 4
-Android APPS -> 4
-Web -> 5
-
-#REACT_NATIVE_EXPO
-#REACT
-for collaborations text me in telegram @surenpoghosian
+and there (telegram) -> @surenpoghosian
 
 <!---
 surenpoghosian/surenpoghosian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
