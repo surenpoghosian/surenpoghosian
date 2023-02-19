@@ -3,7 +3,7 @@
 
 and there (telegram) -> @surenpoghosian
 
-For fifa Coin Suppliers -> https://supplier.futmarket.net 
+<!-- For fifa Coin Suppliers -> https://supplier.futmarket.net  -->
 <br/>
 Futmarket -> https://futmarket.net
 <br/>
