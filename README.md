@@ -3,11 +3,11 @@
 
 and there (telegram) -> @surenpoghosian
 
-supplier.futmarket.net
-futmarket.net
+For fifa Coin Suppliers -> https://supplier.futmarket.net
+Futmarket -> https://futmarket.net
 
-https://play.google.com/store/apps/details?id=com.digital_empire.horoscope
-https://play.google.com/store/apps/details?id=com.xetpyrc.removetik
+Zodiac -> https://play.google.com/store/apps/details?id=com.digital_empire.horoscope
+Remove Watermark -> https://play.google.com/store/apps/details?id=com.xetpyrc.removetik
 
 <!---
 surenpoghosian/surenpoghosian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
