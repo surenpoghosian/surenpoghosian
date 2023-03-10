@@ -3,7 +3,7 @@
 
 and there (telegram) -> @surenpoghosian
 
-COMING SOON -> https://fastsoft.org
+FOR COLLABORATION / OUTSOURCE / FREELANCE -> https://fastsoft.org
 
 
 <!-- For fifa Coin Suppliers -> https://supplier.futmarket.net  -->
