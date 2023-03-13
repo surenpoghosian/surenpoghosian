@@ -8,25 +8,25 @@ FOR COLLABORATION / OUTSOURCE / FREELANCE -> https://fastsoft.org
 
 <!-- For fifa Coin Suppliers -> https://supplier.futmarket.net  -->
 <br/>
-Futmarket -> https://futmarket.net
+Futmarket -> https://futmarket.net (REACT JS)
 <br/>
 <br/>
-Futmarket Supplier https://supplier.futmarket.net
+Futmarket Supplier https://supplier.futmarket.net (REACT JS)
 <br/>
 <br/>
-Zodiac -> https://play.google.com/store/apps/details?id=com.digital_empire.horoscope
+Zodiac -> https://play.google.com/store/apps/details?id=com.digital_empire.horoscope (REACT NATIVE)
 <br/>
 <br/>
-Remove Tiktok Watermark -> https://play.google.com/store/apps/details?id=com.xetpyrc.removetik
+Remove Tiktok Watermark -> https://play.google.com/store/apps/details?id=com.xetpyrc.removetik (REACT NATIVE)
 <br/>
 <br/>
-Kaspersky -> https://kaspersky.fastsoft.org
+Kaspersky -> https://kaspersky.fastsoft.org (REACT JS)
 <br/>
 <br/>
-DevSearch -> https://svelte.fastsoft.org
+DevSearch -> https://svelte.fastsoft.org (SVELTE JS)
 <br/>
 <br/>
-Windows 11 (web) -> https://windows.fastsoft.org
+Windows 11 (web) -> https://windows.fastsoft.org (SVELTE JS)
 <br/>
 
 <!---
