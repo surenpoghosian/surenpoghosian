@@ -10,15 +10,21 @@ FOR COLLABORATION / OUTSOURCE / FREELANCE -> https://fastsoft.org
 <br/>
 Futmarket -> https://futmarket.net
 <br/>
+<br/>
+Futmarket Supplier https://supplier.futmarket.net
+<br/>
+<br/>
 Zodiac -> https://play.google.com/store/apps/details?id=com.digital_empire.horoscope
+<br/>
 <br/>
 Remove Tiktok Watermark -> https://play.google.com/store/apps/details?id=com.xetpyrc.removetik
 <br/>
-Chat module in -> https://dev.dremarketplace.com/
 <br/>
 Kaspersky -> https://kaspersky.fastsoft.org
 <br/>
+<br/>
 DevSearch -> https://svelte.fastsoft.org
+<br/>
 <br/>
 Windows 11 (web) -> https://windows.fastsoft.org
 <br/>
