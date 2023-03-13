@@ -15,6 +15,14 @@ Zodiac -> https://play.google.com/store/apps/details?id=com.digital_empire.horos
 Remove Tiktok Watermark -> https://play.google.com/store/apps/details?id=com.xetpyrc.removetik
 <br/>
 Chat module in -> https://dev.dremarketplace.com/
+<br/>
+Kaspersky -> https://kaspersky.fastsoft.org
+<br/>
+DevSearch -> https://svelte.fastsoft.org
+<br/>
+Windows 11 (web) -> https://windows.fastsoft.org
+<br/>
+
 <!---
 surenpoghosian/surenpoghosian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
