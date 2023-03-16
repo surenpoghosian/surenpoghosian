@@ -45,6 +45,10 @@ https://admin.fastsoft.org
 <br/>
 https://adminblack.fastsoft.org
 <br/>
+https://paperkit.fastsoft.org
+<br/>
+https://nowkit.fastsoft.org
+<br/>
 
 
 
