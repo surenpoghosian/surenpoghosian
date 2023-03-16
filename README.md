@@ -28,6 +28,25 @@ DevSearch -> https://svelte.fastsoft.org (SVELTE JS)
 <br/>
 Windows 11 (web) -> https://windows.fastsoft.org (SVELTE JS)
 <br/>
+<br/>
+<br/>
+<br/>
+and some more...
+<br/>
+<br/>
+
+https://landing.fastsoft.org
+<br/>
+https://resume.fastsoft.org
+<br/>
+https://startup.fastsoft.org
+<br/>
+https://admin.fastsoft.org
+<br/>
+https://adminblack.fastsoft.org
+<br/>
+
+
 
 <!---
 surenpoghosian/surenpoghosian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
