@@ -35,6 +35,10 @@ and some more...
 <br/>
 <br/>
 
+https://pizza.fastsoft.org
+<br/>
+https://wine.fastsoft.org
+<br/>
 https://landing.fastsoft.org
 <br/>
 https://resume.fastsoft.org
@@ -48,6 +52,10 @@ https://adminblack.fastsoft.org
 https://paperkit.fastsoft.org
 <br/>
 https://nowkit.fastsoft.org
+<br/>
+https://auction.fastsoft.org
+<br/>
+https://groceries.fastsoft.org
 <br/>
 
 
