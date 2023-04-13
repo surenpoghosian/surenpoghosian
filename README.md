@@ -14,7 +14,7 @@ Futmarket -> https://futmarket.net (REACT JS)
 Futmarket Supplier https://supplier.futmarket.net (REACT JS)
 <br/>
 <br/>
-Kaspersky -> https://kaspersky.fastsoft.org (REACT JS)
+Kaspersky -> https://kaspersky.fastsoft.org (REACT JS) (https://www.kaspersky.ru/lp/gin-russia/) 
 <br/>
 <br/>
 Zodiac -> https://play.google.com/store/apps/details?id=com.digital_empire.horoscope (REACT NATIVE)
