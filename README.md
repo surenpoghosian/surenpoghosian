@@ -29,6 +29,7 @@ DevSearch -> https://svelte.fastsoft.org (SVELTE JS)
 Windows 11 (web) -> https://windows.fastsoft.org (SVELTE JS)
 <br/>
 <br/>
+WEB3 (solidity) -> https://coinmarketcap.com/dexscan/bsc/0x6a2f8ba9b23486c22738bcdb47ec564c9f670e50/
 <br/>
 <br/>
 and some more...
