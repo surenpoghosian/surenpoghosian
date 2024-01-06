@@ -3,6 +3,9 @@
 
 and there (telegram) -> @surenpoghosian
 
+Yo I'm Suren. A creative guy with technical skills. I used to train voice models back in 2021. Currently I'm mastering my skills of Front End development with the stack below
+• Mobile - native iOS (UIKit)
+• Web - React JS 
 
 <!---
 surenpoghosian/surenpoghosian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
