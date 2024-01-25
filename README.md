@@ -5,7 +5,7 @@ and there (telegram) -> @surenpoghosian
 </br>
 </br>
 </br>
-[https://my-aua-app.vercel.app/contacts](https://my-aua-app.vercel.app/contacts)
+[https://my-aua-app.vercel.app/contacts](https://my-aua-app.vercel.app/)
 
 <!---
 surenpoghosian/surenpoghosian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
