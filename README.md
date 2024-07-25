@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Suren
-- 📫 You can reach me there -> suren.poghosian.18@gmail.com
 
-and there (telegram) -> @surenpoghosian
 </br>
 </br>
 </br>
