@@ -3,12 +3,12 @@
 </br>
 </br>
 </br>
-https://aua-mit.surenpoghosyan.dev/
+[AUA x MIT workshop preview](https://aua-mit.surenpoghosyan.dev/)
 
 </br>
 </br>
 </br>
-https://surenpoghosyan.dev/
+[surenpoghosyan.dev](https://surenpoghosyan.dev/)
 
 <!---
 surenpoghosian/surenpoghosian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
